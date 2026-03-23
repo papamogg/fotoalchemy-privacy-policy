@@ -7,6 +7,7 @@ If you choose to use our Service, then you agree to the collection and use of in
 ## 1. Information Collection and Use
 **Local Data Storage**: The core functionality of FotoAlchemy relies entirely on local storage. Any data, content, or preferences you create or input into the app are stored locally on your device. We do not have access to this data, nor do we transmit, store, or process this data on any external servers owned or operated by us.
 Because your data is stored locally, you maintain complete control over it. Uninstalling the app or clearing the app's cache/data from your device settings will permanently delete this locally stored data.
+By default, your photo collages, custom grids, and project files are stored entirely on your device. We do not have access to this data, nor do we store it on our servers.
 
 ## 2. Third-Party Services and In-App Purchases
 While we do not collect personal data on our own servers, our app utilizes third-party services to handle in-app purchases and subscriptions. These services may collect information used to identify you, process your payments, and manage your subscription status.
